@@ -1,0 +1,18 @@
+{
+	"dependencies": {
+		"express": "^4.21.2"
+	},
+	"name": "iobit_license_api",
+	"type": "module",
+	"version": "1.0.0",
+	"description": "API for IObit license",
+	"main": "index.js",
+	"devDependencies": {
+		"morgan": "^1.10.0"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC"
+}
